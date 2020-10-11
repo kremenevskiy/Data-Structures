@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kremenevskiy/Desktop/DataStructures/Graphs/BFS.cpp
+Graph.h
+/Users/kremenevskiy/Desktop/DataStructures/Graphs/Graph.h
+
+/Users/kremenevskiy/Desktop/DataStructures/Graphs/DFS.cpp
+Graph.h
+/Users/kremenevskiy/Desktop/DataStructures/Graphs/Graph.h
+
+/Users/kremenevskiy/Desktop/DataStructures/Graphs/Graph.h
+iostream
+-
+list
+-
+map
+-
+queue
+-
+
